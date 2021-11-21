@@ -15,7 +15,7 @@ TopLang|Preview|
 
 [GitBlog]:https://parkwonbin.github.io/
 [URL_UIPS]:https://github.com/ParkWonBin/UIPath_study
-[URL_BKIE]:https://github.com/ParkWonBin/R_Seoul_Bike_DataAnalisys
+[URL_BIKE]:https://github.com/ParkWonBin/R_Seoul_Bike_DataAnalisys
 [URL_SEJONG]:https://github.com/ParkWonBin/0_Sejong
 
 <!-- 깃허브 API 관련 -->
