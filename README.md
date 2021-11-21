@@ -3,7 +3,7 @@
 
 TopLang|Preview|
 |--|--|
-|[![WonBinPark TopLangs][TopLangs]][GitBlog]| <br> [![repo1][UiPathStudy]][URL_UIPS] <br> [![repo2][SeoulBike]][URL_BIKE] <br> [![repo3][Sejong]][URL_SEJONG]
+|[![WonBinPark TopLangs][TopLangs]][URL_GitBlog]| <br> [![repo1][UiPathStudy]][URL_UIPS] <br> [![repo2][SeoulBike]][URL_BIKE] <br> [![repo3][Sejong]][URL_SEJONG]
 
 
 
