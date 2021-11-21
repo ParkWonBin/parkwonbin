@@ -1,4 +1,4 @@
-[![WonBinPark GitHub Stats][GitHubStats]][GitBlog]
+[![WonBinPark GitHub Stats][GitHubStats]][URL_GitBlog]
 
 
 TopLang|Preview|
@@ -13,7 +13,7 @@ TopLang|Preview|
 [SeoulBike]:https://github-readme-stats.vercel.app/api/pin/?username=ParkWonBin&repo=R_Seoul_Bike_DataAnalisys&theme=dark
 [Sejong]:https://github-readme-stats.vercel.app/api/pin/?username=ParkWonBin&repo=0_Sejong&theme=dark
 
-[GitBlog]:https://parkwonbin.github.io/
+[URL_GitBlog]:https://parkwonbin.github.io/
 [URL_UIPS]:https://github.com/ParkWonBin/UIPath_study
 [URL_BIKE]:https://github.com/ParkWonBin/R_Seoul_Bike_DataAnalisys
 [URL_SEJONG]:https://github.com/ParkWonBin/0_Sejong
