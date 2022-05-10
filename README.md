@@ -1,27 +1,29 @@
 [![WonBinPark GitHub Stats][GitHubStats]][URL_GitBlog]
 
+[GitHubStats]:https://github-readme-stats.vercel.app/api?username=ParkWonBin&repo=UIPath_study&theme=dark
+[URL_GitBlog]:https://parkwonbin.github.io/
 
+
+
+<!-- 
 TopLang|Preview|
 |--|--|
 |[![WonBinPark TopLangs][TopLangs]][URL_GitBlog]| <br> [![repo1][UiPathStudy]][URL_UIPS] <br> [![repo2][SeoulBike]][URL_BIKE] <br> [![repo3][Sejong]][URL_SEJONG]
 
-
-
-[GitHubStats]:https://github-readme-stats.vercel.app/api?username=ParkWonBin&repo=UIPath_study&theme=dark
 [TopLangs]:https://github-readme-stats.vercel.app/api/top-langs/?username=ParkWonBin&langs_count=7&theme=dark
 [UiPathStudy]:https://github-readme-stats.vercel.app/api/pin/?username=ParkWonBin&repo=UIPath_study&theme=dark
 [SeoulBike]:https://github-readme-stats.vercel.app/api/pin/?username=ParkWonBin&repo=R_Seoul_Bike_DataAnalisys&theme=dark
 [Sejong]:https://github-readme-stats.vercel.app/api/pin/?username=ParkWonBin&repo=0_Sejong&theme=dark
 
-[URL_GitBlog]:https://parkwonbin.github.io/
 [URL_UIPS]:https://github.com/ParkWonBin/UIPath_study
 [URL_BIKE]:https://github.com/ParkWonBin/R_Seoul_Bike_DataAnalisys
-[URL_SEJONG]:https://github.com/ParkWonBin/0_Sejong
+[URL_SEJONG]:https://github.com/ParkWonBin/0_Sejong 
+-->
 
-<!-- 깃허브 API 관련 -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- 
+깃허브 API 관련 
+https://github.com/anuraghazra/github-readme-stats
 
-<!--  
 <a href="https://github.com/ParkWonBin/UIPath_study">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ParkWonBin&repo=UIPath_study&theme=dark" />
 </a>
@@ -30,8 +32,6 @@ TopLang|Preview|
 
 <!-- Table Tag Colsapn  -->
 <!-- https://stackoverflow.com/questions/23571724/github-markdown-colspan -->
-
-
 <!-- 깃허브 페이지  -->
 <!-- https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/ -->
 
