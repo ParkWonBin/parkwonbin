@@ -4,10 +4,12 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
     <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white">
     <img src="https://img.shields.io/badge/.Net-512BD5?style=flat&logo=dotnet&logoColor=white">
+    <img src="https://img.shields.io/badge/UIPath-0099dd?style=flat">
 </div><div> 
     <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=e34f26">
     <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572b6">
     <img src="https://img.shields.io/badge/JS-000000?style=flat&logo=javascript&logoColor=f7df1e">
+    <img src="https://img.shields.io/badge/XAML-000000?style=flat&logo=XAML&logoColor=0C54C2">
     <img src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=61dafb">
 </div><div> 
     <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
@@ -21,7 +23,6 @@
     <img src="https://img.shields.io/badge/Vim-000000?style=flat&logo=Vim&logoColor=1ab7ea">
     <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=f05032">
 </div><div>
-    <img src="https://img.shields.io/badge/UIPath-0099dd?style=flat">
     <img src="https://img.shields.io/badge/Excel-000000?style=flat&logo=Microsoftexcel&logoColor=217346">
     <img src="https://img.shields.io/badge/Outlook-000000?style=flat&logo=Microsoftoutlook&logoColor=0078D4">
     <img src="https://img.shields.io/badge/SAP-000000?style=flat&logo=SAP&logoColor=0FAAFF">
@@ -165,7 +166,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Yarn-000000?style=flat&logo=yarn&logoColor=2C8EBB">
     <img src="https://img.shields.io/badge/NPM-000000?style=flat&logo=npm&logoColor=CB3837">
 </div><div>
-    <img src="https://img.shields.io/badge/XAML-000000?style=flat&logo=XAML&logoColor=0C54C2">
     <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white">
     <img src="https://img.shields.io/badge/Json-000000?style=flat&logo=Json&logoColor=white">
     <img src="https://img.shields.io/badge/Jpeg-000000?style=flat&logo=Jpeg&logoColor=8A8A8A">
