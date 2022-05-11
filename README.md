@@ -1,27 +1,11 @@
-## 🌱 I’m currently learning
+## About me
+I'm currenty working as a **Robotic Process Automation Developer** at KoreaScoring. Automating simple repetitve tasks. 
 <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white">
-    <img src="https://img.shields.io/badge/.Net-512BD5?style=flat&logo=dotnet&logoColor=white">
     <img src="https://img.shields.io/badge/UIPath-0099dd?style=flat">
-</div><div> 
-    <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=e34f26">
-    <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572b6">
-    <img src="https://img.shields.io/badge/JS-000000?style=flat&logo=javascript&logoColor=f7df1e">
+    <img src="https://img.shields.io/badge/.Net-512BD5?style=flat&logo=dotnet&logoColor=white">
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white">
+    <img src="https://img.shields.io/badge/Selenium-000000?style=flat&logo=Selenium&logoColor=43B02A">
     <img src="https://img.shields.io/badge/XAML-000000?style=flat&logo=XAML&logoColor=0C54C2">
-    <img src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=61dafb">
-</div><div> 
-    <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
-    <img src="https://img.shields.io/badge/Blneder-000000?style=flat&logo=Blender&logoColor=F5792A">
-    <img src="https://img.shields.io/badge/OBS-000000?style=flat&logo=OBSstudio&logoColor=white">
-    <img src="https://img.shields.io/badge/PremierePro-000000?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=9999ff">
-</div><br><div> 
-    <img src="https://img.shields.io/badge/Anaconda-000000?style=flat&logo=anaconda&logoColor=44a833">
-    <img src="https://img.shields.io/badge/RStudio-000000?style=flat&logo=RStudio&logoColor=75AADB">
-    <img src="https://img.shields.io/badge/VScode-000000?style=flat&logo=VisualStudiocode&logoColor=007acc">
-    <img src="https://img.shields.io/badge/Vim-000000?style=flat&logo=Vim&logoColor=1ab7ea">
-    <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=f05032">
 </div><div>
     <img src="https://img.shields.io/badge/Excel-000000?style=flat&logo=Microsoftexcel&logoColor=217346">
     <img src="https://img.shields.io/badge/Outlook-000000?style=flat&logo=Microsoftoutlook&logoColor=0078D4">
@@ -30,13 +14,47 @@
     <img src="https://img.shields.io/badge/IE-000000?style=flat&logo=InternetExplorer&logoColor=0076D6">
     <img src="https://img.shields.io/badge/Edge-000000?style=flat&logo=MicrosoftEdge&logoColor=0078D7">
     <img src="https://img.shields.io/badge/Chrome-000000?style=flat&logo=GoogleChrome&logoColor=4285F4">
-</div><div> 
+</div><br>
+
+Most of the RPA assignments deal with the web/app, so I am studying frontend development with a toy project to increase my counterpart's understanding.
+<div> 
+    <img src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=61dafb">
+    <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=e34f26">
+    <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572b6">
+    <img src="https://img.shields.io/badge/JS-000000?style=flat&logo=javascript&logoColor=f7df1e">
+    <img src="https://img.shields.io/badge/PyQT5-000000?style=flat&logo=qt&logoColor=41CD52">
+</div><br>
+
+I majored in Physics and minored in Mathematics at Chung-Ang University. 
+And I was interested in computer science.
+<div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white">
     <img src="https://img.shields.io/badge/SymPy-3B5526?style=flat&logo=SymPy&logoColor=white">
-    <img src="https://img.shields.io/badge/PyQT5-000000?style=flat&logo=qt&logoColor=41CD52">
-    <img src="https://img.shields.io/badge/Selenium-000000?style=flat&logo=Selenium&logoColor=43B02A">
+</div><div>
+    <a title="Kaggle" href="https://www.kaggle.com/parkwonbin">
+    <img src="https://img.shields.io/badge/Kaggle-000000?style=flat&logo=Kaggle&logoColor=20BEFF" /> 
+    </a>
+    <img src="https://img.shields.io/badge/RStudio-000000?style=flat&logo=RStudio&logoColor=75AADB">
+    <img src="https://img.shields.io/badge/Anaconda-000000?style=flat&logo=anaconda&logoColor=44a833">
     <img src="https://img.shields.io/badge/Mathematica-000000?style=flat&logo=WolframMathematica&logoColor=dd1100">
+</div><div>
+    <img src="https://img.shields.io/badge/VScode-000000?style=flat&logo=VisualStudiocode&logoColor=007acc">
+    <img src="https://img.shields.io/badge/Vim-000000?style=flat&logo=Vim&logoColor=1ab7ea">
+    <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=f05032">
+</div><br>
+
+I loved 3D MMORPG Games as kid. I wanted to make some 3D Games and Animations. So I studied making 3D games as a hobby since 2014.  I have the skills to output a model I modeled myself to a 3d printer or create a small room in a VR game and upload it.
+<div> 
+    <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
+    <img src="https://img.shields.io/badge/Blneder-000000?style=flat&logo=Blender&logoColor=F5792A">
+    <img src="https://img.shields.io/badge/PremierePro-000000?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=9999ff">
+    <img src="https://img.shields.io/badge/OBS-000000?style=flat&logo=OBSstudio&logoColor=white">
+    <a title="YouTube" href="https://www.youtube.com/channel/UCXU_jCbDFAPFKcPHCZ9M2jA/videos">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=flat&logo=youtube&logoColor=ff0000"> 
+    </a>
 </div><br>
 
 ## 📫 How to reach me:
@@ -50,16 +68,9 @@
     <a title="Linkedin" href="https://www.linkedin.com/in/wonbin-park-9303571aa/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=Linkedin&logoColor=blue" /> 
     </a>
-</div><div>  
-    <a title="YouTube" href="https://www.youtube.com/channel/UCXU_jCbDFAPFKcPHCZ9M2jA/videos">
-    <img src="https://img.shields.io/badge/YouTube-000000?style=flat&logo=youtube&logoColor=ff0000"> 
-    </a>
     <a title="Facebook" href="https://www.facebook.com/wonbin.park.902/">
     <img src="https://img.shields.io/badge/Facebook-000000?style=flat&logo=facebook&logoColor=1877f2" /> 
     </a> 
-    <a title="Kaggle" href="https://www.kaggle.com/parkwonbin">
-    <img src="https://img.shields.io/badge/Kaggle-000000?style=flat&logo=Kaggle&logoColor=20BEFF" /> 
-    </a>
 </div><br>
 
 ## ∇ GitHub Info : 
