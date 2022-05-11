@@ -16,7 +16,7 @@ I'm currenty working as a **Robotic Process Automation Developer** at KoreaScori
     <img src="https://img.shields.io/badge/Chrome-000000?style=flat&logo=GoogleChrome&logoColor=4285F4">
 </div><br>
 
-Most of the RPA assignments deal with the web/app, so I am studying frontend development with a toy project to increase my counterpart's understanding.
+Most of the RPA assignments deal with apps and webs, so I am studying frontend development with a toy project to increase my counterpart's understanding.
 <div> 
     <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=e34f26">
     <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572b6">
