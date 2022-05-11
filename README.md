@@ -46,7 +46,7 @@ And I was interested in computer science.
     <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=f05032">
 </div><br>
 
-I loved 3D MMORPG Games as kid. I wanted to make some 3D Games/Animations. So I studied making 3D Animation as a hobby since 2014. I have skills 1.to make short 3D Animation film or 2.to create a small room in a VR game and upload it or 3.to print 3D model using a 3d printer.
+I loved 3D MMORPG Games as kid. I wanted to make some 3D Games/Animations. So I studied making 3D Animation as a hobby since 2014. I have skills [1]to make short 3D Animation film or [2]to create a small room in a VR game and upload it or [3]to print models using 3D printer.
 <div> 
     <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
     <img src="https://img.shields.io/badge/Blneder-000000?style=flat&logo=Blender&logoColor=F5792A">
