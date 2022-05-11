@@ -18,11 +18,12 @@ I'm currenty working as a **Robotic Process Automation Developer** at KoreaScori
 
 Most of the RPA assignments deal with the web/app, so I am studying frontend development with a toy project to increase my counterpart's understanding.
 <div> 
-    <img src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=61dafb">
     <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=e34f26">
     <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572b6">
     <img src="https://img.shields.io/badge/JS-000000?style=flat&logo=javascript&logoColor=f7df1e">
+    <img src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=61dafb">
     <img src="https://img.shields.io/badge/PyQT5-000000?style=flat&logo=qt&logoColor=41CD52">
+
 </div><br>
 
 I majored in Physics and minored in Mathematics at Chung-Ang University. 
