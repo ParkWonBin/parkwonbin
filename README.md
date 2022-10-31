@@ -190,3 +190,7 @@ Here are some ideas to get you started:
 <!-- https://simpleicons3d.org/ -->
 <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=flat&logo=아이콘&logoColor=white"> -->
 <!-- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true -->
+
+<!-- 관심 있는 프로젝트 -->
+<!-- https://github.com/dotnet/core  -->
+<!-- https://github.com/hummingbot/hummingbot -->
