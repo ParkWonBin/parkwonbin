@@ -194,3 +194,8 @@ Here are some ideas to get you started:
 <!-- 관심 있는 프로젝트 -->
 <!-- https://github.com/dotnet/core  -->
 <!-- https://github.com/hummingbot/hummingbot -->
+<!-- https://github.com/ParkWonBin/stable-diffusion -->
+<!-- 1brown3blue -->
+<!-- https://github.com/ManimCommunity/manim -->
+<!-- 시뮬레이터 -->
+<!-- https://github.com/Primer-Learning/PrimerTools -->
