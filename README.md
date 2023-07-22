@@ -47,7 +47,7 @@ And I was interested in computer science.
     <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=f05032">
 </div><br>
 
-I loved 3D MMORPG Games as kid. I wanted to make some 3D Games/Animations. So I studied making 3D Animation as a hobby since 2014. I have skills [1]to make short 3D Animation film or [2]to create a small room in a VR game and upload it or [3]to print models using 3D printer.
+I know how to handle it as a hobby.
 <div> 
     <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
     <img src="https://img.shields.io/badge/Blneder-000000?style=flat&logo=Blender&logoColor=F5792A">
@@ -58,25 +58,9 @@ I loved 3D MMORPG Games as kid. I wanted to make some 3D Games/Animations. So I 
     </a>
 </div><br>
 
-## 📫 How to reach me:
-<div>
-    <a title="Gmail" href="mailto:pwb1128@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&logoColor=ea4335"/>
-    </a>
-    <a title="Notion" href="https://parkwonbin.notion.site/97acc50fe67e4639b9f19577b8dbb809">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=whilte">
-    </a>
-    <a title="Linkedin" href="https://www.linkedin.com/in/wonbin-park-9303571aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=Linkedin&logoColor=blue" /> 
-    </a>
-    <a title="Facebook" href="https://www.facebook.com/wonbin.park.902/">
-    <img src="https://img.shields.io/badge/Facebook-000000?style=flat&logo=facebook&logoColor=1877f2" /> 
-    </a> 
-</div><br>
 
 ## ∇ GitHub Info : 
-<!-- GitHub -->
-<!-- ![ParkWonBin'백준 티어](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=pwb1128&theme=white) -->
+
 <!-- [![GitHub streak][GitHub_Streak]](https://github.com/ParkWonBin) -->
 [![WonBinPark GitHub Stats][GitHub_Stats]](https://github.com/ParkWonBin/)  
 [![WonBinPark TopLangs][GitHub_TopLangs]](https://github.com/ParkWonBin/)  
@@ -104,21 +88,6 @@ I loved 3D MMORPG Games as kid. I wanted to make some 3D Games/Animations. So I 
 [ICON_Linkedin]:https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white
 [ICON_FaceBook]:https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white
 [ICON_Twitter]:https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white -->
-
-<!--
-**ParkWonBin/parkwonbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <!-- 아직 공부중
 ### SNS
